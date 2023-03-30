@@ -34,5 +34,12 @@ Please fill in the sections below after you complete the challenge.
 --->
 
 ### What I'm Pleased With
+It was interesting to investigate the gaming aspects of this, looking into pathfinding is a basic requirement also for some robotics,
+didn't understand how it relates to banking applications or financial work, unless you're training AI bots to filter and target stats.
 
 ### What I Would Have Done With More Time
+Well, I'd have finally I think managed to get it working but I'm not going to say I'd have done it easily.  Whoever set it may have
+an interest in game development or a maths background but sadly I have neither!  Even asked my son if he'd come across this as he's
+doing A-Level maths and physics at the moment but he'd not seen it either.
+
+Sorry guys, if this is a simple one for you!
